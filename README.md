@@ -1,7 +1,8 @@
 # Ayush Garg 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush8802-blue)](https://www.linkedin.com/in/ayush8802) 
-[![Email](https://img.shields.io/badge/Email-ayush@example.com-orange)](mailto:ayush@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush8802-blue)](https://www.linkedin.com/in/ayush-garg08/) 
+[![Email](https://img.shields.io/badge/Email-ayushgarg916@gmail.com-orange)](mailto:ayushgarg916@gmail.com)
+[![Twitter(X)](https://img.shields.io/badge/Twitter(X)-ayush8802-purple)](https://x.com/ayush8802)
 
 Hi there! I'm Ayush Garg, a Computer Science graduate and a passionate **Generative AI Developer** focused on creating impactful projects using AI and machine learning. When I'm not coding, you can find me exploring tech trends or enjoying a good book.
 
@@ -20,8 +21,8 @@ Hi there! I'm Ayush Garg, a Computer Science graduate and a passionate **Generat
 - Enhancing my knowledge in **data structures** and **algorithms** to improve my problem-solving skills.
 
 ## 💬 How to reach me:
-- Email: [ayush@example.com](mailto:ayush@example.com)
-- LinkedIn: [Ayush Garg](https://www.linkedin.com/in/ayush8802)
+- Email: [ayushgarg916@gmail.com](mailto:ayushgarg916@gmail.com)
+- LinkedIn: [Ayush Garg](https://www.linkedin.com/in/ayush-garg08/)
 
 ## 🛠 Languages and Tools:
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
