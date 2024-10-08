@@ -1,21 +1,27 @@
 # Ayush Garg 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInURL-blue)](YourLinkedInURL)
-[![Email](https://img.shields.io/badge/Email-your-email@example.com-orange)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush8802-blue)](https://www.linkedin.com/in/ayush8802) 
+[![Email](https://img.shields.io/badge/Email-ayush@example.com-orange)](mailto:ayush@example.com)
 
 Hi there! I'm Ayush Garg, a Computer Science graduate and a passionate **Generative AI Developer** focused on creating impactful projects using AI and machine learning. When I'm not coding, you can find me exploring tech trends or enjoying a good book.
 
 ## 🚀 About Me
-- 💻 Software Developer
-- 📚 Currently diving into **Generative AI** and **Prompt Engineering** with a focus on **RLHF** (Reinforcement Learning from Human Feedback).
-- 🎓 Skills: C++, Python, SQL, NumPy, Pandas, Hugging Face, Langchain, and more.
-- ⚡ Fun fact: I love exploring the world of AI and technology! 
+- 💻 **Software Developer** with hands-on experience in C++, Python, and SQL.
+- 📚 Currently diving into **Generative AI** and **Prompt Engineering** with a focus on **Reinforcement Learning from Human Feedback (RLHF)**.
+- 🎓 I have worked on various projects, including:
+  - **REVOLUTIONIZING E-COMMERCE COMPETITIVENESS**: A MERN stack framework for real-time price analysis and optimization.
+  - **Grocery Store Management**: A management system built with Python Flask and MySQL.
+  - **QnA Bot**: An LLM project using Langchain and Hugging Face.
+- ⚡ Fun fact: I love exploring the world of AI and technology! In my spare time, I enjoy learning about the latest advancements in tech.
 
 ## 🌱 I'm currently learning:
-- Advanced techniques in **Generative AI** and **LLMs** (Large Language Models).
+- Advanced techniques in **Generative AI** and **Large Language Models (LLMs)**.
+- Exploring **TensorFlow** and **PyTorch** for deep learning applications.
+- Enhancing my knowledge in **data structures** and **algorithms** to improve my problem-solving skills.
 
 ## 💬 How to reach me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [ayush@example.com](mailto:ayush@example.com)
+- LinkedIn: [Ayush Garg](https://www.linkedin.com/in/ayush8802)
 
 ## 🛠 Languages and Tools:
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
@@ -24,4 +30,16 @@ Hi there! I'm Ayush Garg, a Computer Science graduate and a passionate **Generat
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF3B00?style=flat&logo=Huggingface&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=ffffff)
 
+## 🌟 Notable Achievements:
+- Successfully completed the **IBM SkillsBuild Program**, gaining practical knowledge in software development.
+- Served as the **Vice President** of the Technical Language Society, leading initiatives to promote tech literacy.
+- Participated in the **Smart India Hackathon**, where I developed innovative solutions to real-world problems.
+
+## 🌍 Future Aspirations:
+- To work with leading tech companies focusing on **Generative AI** and contribute to groundbreaking projects that make a positive impact on society.
+- To continue my journey of lifelong learning and stay updated with the evolving landscape of technology.
+
+Feel free to check out my repositories and connect with me to discuss opportunities, ideas, or just to say hello!
