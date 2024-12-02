@@ -31,8 +31,6 @@ Hi there! I'm Ayush Garg, a Computer Science graduate and a passionate **Generat
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF3B00?style=flat&logo=Huggingface&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=ffffff)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=ffffff)
 
 ## 🌟 Notable Achievements:
 - Successfully completed the **IBM SkillsBuild Program**, gaining practical knowledge in software development.
